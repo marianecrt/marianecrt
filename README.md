@@ -6,7 +6,7 @@
 
 > # About Me 👩‍💻
 
-- 🎓 I'm currently pursuing my bachelor's degree in computer science;
+- 🎓 I'm currently pursuing my bachelor's degree in computer science and post-degree in data science;
 - I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 > # Toolkit 🛠️
