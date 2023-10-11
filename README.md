@@ -6,8 +6,6 @@
 
 </div>
 
-- ## My name is Mariane. Welcome to my github profile.
-
 <div class="bio">
 
   <div class="bio-title" align="center">
@@ -16,8 +14,9 @@
 
   </div>
 
-- 🎓 I'm currently pursuing my bachelor's degree in computer science and post-degree in data science;
-- I love to travel 🛫, play soccer ⚽ and videogame 🎮.
+- ### My name is Mariane. Welcome to my github profile.
+- ### 🎓 I'm currently pursuing my bachelor's degree in computer science and post-degree in data science;
+- ### I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 </div>
 
