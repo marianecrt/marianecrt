@@ -6,6 +6,8 @@
 
 </div>
 
+##
+
 <div class="bio">
 
   <div class="bio-title" align="center">
@@ -20,6 +22,8 @@
 
 </div>
 
+##
+
 <div class="toolkit" align="center">
 
 > # Toolkit 🛠️
@@ -27,12 +31,14 @@
   <div class="toolkit">
     <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> 
     <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="45"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>      
   </div>
 </div>
+
+##
 
 <div class="contacts" align="center">
 
@@ -44,4 +50,12 @@
   <a href="https://www.linkedin.com/in/marianectrodrigues/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" height="50" target="_blank">
   </a>
+</div>
+
+##
+
+<div class="stats" align="center">
+
+  <a href="https://github.com/marianecrt">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianecrt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
