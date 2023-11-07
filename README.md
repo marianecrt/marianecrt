@@ -1,4 +1,4 @@
-<div class= "header" align="center">
+<div class= "header">
 
 # Hello there! 👋
 
@@ -10,37 +10,32 @@
 
 <div class="bio">
 
-  <div class="bio-title" align="center">
-
 > # About Me 👩‍💻
 
-  </div>
-
 - ### My name is Mariane. Welcome to my github profile.
-- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Full Stack Software Development;
+- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Data Science;
 - ### I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 </div>
 
 ##
 
-<div class="toolkit" align="center">
+<div class="toolkit">
 
 > # Toolkit 🛠️
 
   <div class="toolkit">
     <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> 
     <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="45"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+          
   </div>
 </div>
 
 ##
 
-<div class="contacts" align="center">
+<div class="contacts">
 
 > # Where you can find me 🤝
 
@@ -53,9 +48,3 @@
 </div>
 
 ##
-
-<div class="stats" align="center">
-
-  <a href="https://github.com/marianecrt">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianecrt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
